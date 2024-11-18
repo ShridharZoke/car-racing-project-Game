@@ -1,6 +1,6 @@
-Final Year Project for students as Game Development. Top class Game Development project that made by combination of front end programming languages such as HTML, CSS & JS.
+Final Year Project for students as Game Development. Top class Game Development project that made by combination of front end programming languages such as HTML & JS.
 
-Tech : HTML, CSS & JS
+Tech : HTML & JS
 
 play online https://kodemeister-yt.github.io/Dash.github.io/
 
